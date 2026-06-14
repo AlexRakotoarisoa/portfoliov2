@@ -9,19 +9,19 @@ const cards = [
     icon: <FaCode size={18} />,
     titleKey: 'section2.titre1',
     descKey: 'section2.description1',
-    tags: ['Suricata', 'ELK Stack', 'SOC Lab'],
+    tags: ['Frontend', 'Backend'],
   },
   {
     icon: <FaLock size={18} />,
     titleKey: 'section2.titre2',
     descKey: 'section2.description2',
-    tags: ['React', 'Django', 'NodeJS'],
+    tags: ['Figma', 'Adobe illustrator'],
   },
   {
     icon: <FaImage size={18} />,
     titleKey: 'section2.titre3',
     descKey: 'section2.description3',
-    tags: ['Illustrator', 'Photoshop', 'Figma'],
+    tags: ['Illustrator', 'Photoshop'],
   },
 ];
 
