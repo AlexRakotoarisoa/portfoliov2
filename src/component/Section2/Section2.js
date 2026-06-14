@@ -15,13 +15,13 @@ const cards = [
     icon: <FaLock size={18} />,
     titleKey: 'section2.titre2',
     descKey: 'section2.description2',
-    tags: ['Figma', 'Adobe illustrator'],
+    tags: ['Figma'],
   },
   {
     icon: <FaImage size={18} />,
     titleKey: 'section2.titre3',
     descKey: 'section2.description3',
-    tags: ['Illustrator', 'Photoshop'],
+    tags: ['Adobe Illustrator', 'Adobe Photoshop'],
   },
 ];
 
