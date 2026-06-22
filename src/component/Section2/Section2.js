@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from "framer-motion";
 import MobileAnimation from '../MobileAnimation';
 import { useTranslation } from 'react-i18next';
-import { FaCode, FaImage, FaLock } from "react-icons/fa";
+import { FaCode, FaLock } from "react-icons/fa";
 
 const cards = [
   {
@@ -16,13 +16,7 @@ const cards = [
     titleKey: 'section2.titre2',
     descKey: 'section2.description2',
     tags: ['Docker', 'Kubernetes', 'Git'],
-  },
-  {
-    icon: <FaImage size={18} />,
-    titleKey: 'section2.titre3',
-    descKey: 'section2.description3',
-    tags: ['Adobe Illustrator', 'Adobe Photoshop'],
-  },
+  }
 ];
 
 const Section2 = () => {
