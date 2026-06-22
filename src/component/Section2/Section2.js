@@ -15,7 +15,7 @@ const cards = [
     icon: <FaLock size={18} />,
     titleKey: 'section2.titre2',
     descKey: 'section2.description2',
-    tags: ['Figma'],
+    tags: ['Docker', 'Kubernetes', 'Git'],
   },
   {
     icon: <FaImage size={18} />,

@@ -6,7 +6,7 @@ import { PiFileCSharp } from "react-icons/pi";
 import { BiLogoTypescript, BiLogoPostgresql } from "react-icons/bi";
 import { 
   SiDjango, SiTailwindcss, SiMongodb, SiAdobephotoshop, 
-  SiAdobeillustrator 
+  SiAdobeillustrator, SiKubernetes
 } from "react-icons/si";
 import { TbBrandMysql, TbBrandGithub } from "react-icons/tb";
 import { motion } from "framer-motion";
@@ -73,6 +73,7 @@ const Section4 = () => {
       title: 'DevOps & Tools',
       items: [
         { icon: <FaDocker />, label: 'Docker' },
+        { icon: <SiKubernetes />, label: 'Kubernetes' },
         { icon: <FaGitAlt />, label: 'Git' },
         { icon: <TbBrandGithub />, label: 'GitHub' },
       ]
