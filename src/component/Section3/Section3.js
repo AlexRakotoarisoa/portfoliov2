@@ -123,8 +123,8 @@ const Section3 = ({ openModal }) => {
        
 
         {/* ── Logos ── */}
-        <div className='text-[20px] text-white mt-[60px]'>{t('section3.titreLogo')}</div>
-        <div className='h-auto items-center grid grid-cols-2 gap-x-[30px] md:grid-cols-4 gap-y-10 md:gap-x-[55px] mt-[60px]'>
+        <div className='hidden text-[20px] text-white mt-[60px]'>{t('section3.titreLogo')}</div>
+        <div className='hidden h-auto items-center grid grid-cols-2 gap-x-[30px] md:grid-cols-4 gap-y-10 md:gap-x-[55px] mt-[60px]'>
 
           <div className='relative w-[100%] group overflow-y-scroll h-[170px] md:h-[100%] flex md:items-center md:justify-center md:overflow-hidden'>
             <div className='absolute flex flex-col items-center right-[300px] rounded-tr-[20px] rounded-br-[20px] opacity-0 group-hover:opacity-100 group-hover:right-0 transition-all duration-700 justify-center w-[100%] h-auto md:h-[100%] bg-[#1D262B] z-20 p-[10px] md:p-[20px]'>

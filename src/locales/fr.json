@@ -1,30 +1,30 @@
 {
   "about": {
-  "title": "À propos",
-  "role": "Développeur Full Stack passionné par la création de solutions numériques.",
-  "description": "Passionné par le développement web et logiciel, j'aime concevoir des applications modernes, performantes et adaptées aux besoins des utilisateurs. Au cours de mon Master en informatique, j'ai réalisé plusieurs projets impliquant le développement front-end et back-end, la conception de bases de données, ainsi que la création d'interfaces intuitives. Mon approche combine rigueur technique, sens de l'innovation et attention portée à l'expérience utilisateur.",
-  "cv": "Télécharger mon CV"
+    "title": "À propos",
+    "role": "Développeur Full Stack passionné par le DevOps.",
+    "description": "Passionné par le développement logiciel et les pratiques DevOps, j'aime concevoir des applications modernes et automatiser leur déploiement. Au cours de mon Master en informatique, j'ai réalisé des projets alliant développement front-end/back-end, conteneurisation (Docker, Kubernetes) et automatisation (CI/CD). Mon approche combine rigueur technique, innovation et souci de la fiabilité des infrastructures.",
+    "cv": "Télécharger mon CV"
   },
   "section1": {
     "salutation": "Hi !",
     "prenom": "I'm Alex",
-    "titrePoste": "Développeur Full-Stack",
-    "descriptionPoste": "Je conçois des applications performantes, intuitives et adaptées aux besoins réels, de la maquette au déploiement."
+    "titrePoste": "Développeur Full-Stack & DevOps",
+    "descriptionPoste": "Je conçois des applications performantes et j'automatise leur déploiement pour garantir fiabilité et scalabilité."
   },
   "section2": {
-  "grandTitre": "CE QUE JE PEUX FAIRE",
-  "titre1": "DÉVELOPPEMENT FULL STACK",
-  "description1": "Je développe des applications web modernes et évolutives, allant d'interfaces utilisateur intuitives à des systèmes back-end robustes avec intégration de bases de données.",
-  "titre2": "DESIGN UI/UX",
-  "description2": "Je conçois des interfaces intuitives, centrées sur l'utilisateur et visuellement attractives, afin d'améliorer l'expérience et la facilité d'utilisation.",
-  "titre3": "CRÉATION DE LOGOS",
-  "description3": "Je crée des logos uniques et mémorables qui reflètent l'identité et les valeurs d'un projet ou d'une marque."
-},
+    "grandTitre": "CE QUE JE PEUX FAIRE",
+    "titre1": "DÉVELOPPEMENT FULL STACK",
+    "description1": "Je développe des applications web modernes et évolutives, allant d'interfaces utilisateur intuitives à des systèmes back-end robustes avec intégration de bases de données.",
+    "titre2": "DEVOPS & INFRASTRUCTURE",
+    "description2": "J'automatise le déploiement et la gestion des infrastructures (Docker, Kubernetes, GCP) pour assurer la performance et la résilience de vos applications.",
+    "titre3": "DESIGN UI/UX",
+    "description3": "Je conçois des interfaces intuitives, centrées sur l'utilisateur et visuellement attractives, afin d'améliorer l'expérience utilisateur."
+  },
   "section3": {
     "grandTitre": "MES PROJETS",
-    "titreProjet" : "MES PROJETS DE DÉVELOPPEMENT",
-    "projet1": "APPLICATION DE GESTION DES OFFRES D’EMPLOI ET DES CANDIDATURES.",
-    "projet2": "APPLICATION INTUITIVE DE GESTION DES CONGÉS POUR LES EMPLOYÉS.",
+    "titreProjet": "MES PROJETS DÉVELOPPEMENT & DEVOPS",
+    "projet1": "APPLICATION DE GESTION DES OFFRES D’EMPLOI ET CANDIDATURES.",
+    "projet2": "APPLICATION DE GESTION DU PERSONNEL.",
     "projet3": "APPLICATION DE GESTION DE NOTES DES ÉTUDIANTS.",
     "projet4": "MON PORTFOLIO",
     "projet5": "APPLICATION MOBILE DE GESTION DES PARTITIONS DE LA CHORALE",
@@ -40,10 +40,9 @@
     "competence1": "Langages de programmation",
     "competence2": "Frameworks & bibliothèques",
     "competence3": "Bases de données",
-    "competence4": "Outils de design & prototypage",
-    "competence5": "Cybersécurité & Réseaux",
-    "competence6": "DevOps & Outils"
-    
+    "competence4": "Outils de design",
+    "competence5": "Réseaux",
+    "competence6": "DevOps (Docker, K8s, CI/CD, GCP)"
   },
   "section6": {
     "grandTitre": "CERTIFICATIONS",
@@ -52,15 +51,15 @@
   },
   "sectionx": {
     "grandTitre": "MES EXPÉRIENCES",
-    "t01": "ÉCOLE NATIONALE D’INFORMATIQUE",
-    "t02": "Année 2025",
-    "t03": "Conception et développement d’une application mobile Android pour la gestion des partitions d’une chorale, facilitant l’organisation, le partage et l’optimisation des répétitions.",
+    "t41": "PROJET PERSONNEL — CLOUD & DEVOPS",
+    "t42": "2026",
+    "t43": "Déploiement sur GCP avec Docker et Kubernetes. Mise en place d'un autoscaling horizontal (HPA) pour garantir performance et résilience.",
     "t11": "AUDITS EXPERTISES ET CONTRÔLES",
     "t12": "Août 2024 – Fevrier 2025",
     "t13": "Conception et réalisation d’une plateforme de gestion des candidatures et des offres d’emploi.",
     "t21": "DIRECTION RÉGIONALE DE L’AGRICULTURE ET DE L’ÉLEVAGE",
     "t22": "Août 2023 – Novembre 2023",
-    "t23": "Conception et réalisation d’une application desktop de gestion des congés du personnel de l’organisme.",
+    "t23": "Conception et réalisation d’une application desktop de gestion des congés du personnel.",
     "t31": "ÉCOLE NATIONALE D’INFORMATIQUE",
     "t32": "Mai 2022",
     "t33": "Conception et réalisation d’une application de gestion de notes d’étudiants."
@@ -70,7 +69,7 @@
     "nav2": "Compétences",
     "nav3": "Expériences",
     "nav4": "Projets",
-    "nav5" : "Contact"
+    "nav5": "Contact"
   },
   "footer": {
     "copy": "© 2026 Rakotoarisoa Alex Emilien | Tous droits réservés."

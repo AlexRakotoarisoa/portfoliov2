@@ -1,30 +1,30 @@
 {
   "about": {
-  "title": "About",
-  "role": "Full-Stack Developer passionate about building digital solutions.",
-  "description": "Passionate about web and software development, I enjoy designing modern, high-performance applications tailored to user needs. During my Master's degree in Computer Science, I worked on several projects involving front-end and back-end development, database design, and intuitive user interfaces. My approach combines technical expertise, innovation, and a strong focus on user experience.",
-  "cv": "Download Resume"
+    "title": "About",
+    "role": "Full-Stack Developer passionate about DevOps.",
+    "description": "Passionate about software development and DevOps practices, I enjoy designing modern applications and automating their deployment. During my Master's degree in Computer Science, I worked on projects combining front-end/back-end development, containerization (Docker, Kubernetes), and automation (CI/CD). My approach combines technical rigor, innovation, and a strong focus on infrastructure reliability.",
+    "cv": "Download Resume"
   },
   "section1": {
     "salutation": "Hi !",
     "prenom": "I'm Alex",
-    "titrePoste": "Full-Stack Developer",
-    "descriptionPoste": "I design high-performance, user-friendly applications tailored to real needs – from wireframes to deployment."
+    "titrePoste": "Full-Stack & DevOps Developer",
+    "descriptionPoste": "I build high-performance applications and automate their deployment to ensure reliability and scalability."
   },
   "section2": {
     "grandTitre": "WHAT I CAN DO",
     "titre1": "FULL-STACK DEVELOPMENT",
     "description1": "I develop modern and scalable web applications, from intuitive user interfaces to robust back-end systems and database integration.",
-    "titre2": "UI/UX DESIGN",
-    "description2": "I design intuitive, user-centered, and visually appealing interfaces that enhance usability and deliver seamless digital experiences.",
-    "titre3": "LOGO DESIGN",
-    "description3": "I design unique and memorable logos that reflect the identity and values of a project or brand."
+    "titre2": "DEVOPS & INFRASTRUCTURE",
+    "description2": "I automate deployment and infrastructure management (Docker, Kubernetes, GCP) to ensure high performance and system resilience.",
+    "titre3": "UI/UX DESIGN",
+    "description3": "I design intuitive, user-centered, and visually appealing interfaces that enhance usability and deliver seamless digital experiences."
   },
   "section3": {
     "grandTitre": "MY PROJECTS",
-    "titreProjet" : "MY DEVELOPMENT PROJECTS",
+    "titreProjet": "MY DEVELOPMENT & DEVOPS PROJECTS",
     "projet1": "JOB OFFERS AND CANDIDATE MANAGEMENT APPLICATION.",
-    "projet2": "INTUITIVE LEAVE MANAGEMENT APPLICATION FOR EMPLOYEES.",
+    "projet2": "PERSONNEL MANAGEMENT APPLICATION.",
     "projet3": "STUDENT GRADE MANAGEMENT APPLICATION.",
     "projet4": "MY PORTFOLIO",
     "projet5": "MOBILE APPLICATION FOR CHOIR SHEET MUSIC MANAGEMENT",
@@ -41,8 +41,8 @@
     "competence2": "Frameworks & Libraries",
     "competence3": "Databases",
     "competence4": "Design & Prototyping Tools",
-    "competence5": "Cybersecurity & Networks",
-    "competence6": "DevOps & Tools"
+    "competence5": "Networks",
+    "competence6": "DevOps (Docker, K8s, CI/CD, GCP)"
   },
   "section6": {
     "grandTitre": "CERTIFICATIONS",
@@ -51,9 +51,9 @@
   },
   "sectionx": {
     "grandTitre": "MY EXPERIENCES",
-    "t01": "ÉCOLE NATIONALE D’INFORMATIQUE",
-    "t02": "Year 2025",
-    "t03": "Design and development of an Android mobile application for choir sheet music management, facilitating organization, sharing, and rehearsal optimization.",
+    "t41": "PERSONAL PROJECT — CLOUD & DEVOPS",
+    "t42": "Mai 2026",
+    "t43": "Deployment on GCP using Docker and Kubernetes. Implementation of Horizontal Pod Autoscaling (HPA) to optimize system availability and performance.",
     "t11": "AUDITS EXPERTISES ET CONTRÔLES",
     "t12": "August 2024 – February 2025",
     "t13": "Design and development of a platform for job offers and candidate management.",
@@ -69,7 +69,7 @@
     "nav2": "Skills",
     "nav3": "Experience",
     "nav4": "Projects",
-    "nav5" : "Contact"
+    "nav5": "Contact"
   },
   "footer": {
     "copy": "© 2026 Rakotoarisoa Alex Emilien | All rights reserved."

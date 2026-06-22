@@ -4,10 +4,10 @@ import { useTranslation } from 'react-i18next';
 
 const experiences = [
   {
-    dateKey: 'sectionx.t02',
-    orgKey: 'sectionx.t01',
-    descKey: 'sectionx.t03',
-    tags: ['Java', 'NodeJS', 'MySQL', 'Room'],
+   dateKey: 'sectionx.t42', 
+    orgKey: 'sectionx.t41', 
+    descKey: 'sectionx.t43',  
+    tags: ['GCP', 'Docker', 'Kubernetes', 'HPA'],
     badge: null,
   },
   {
